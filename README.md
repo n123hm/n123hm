@@ -1,10 +1,14 @@
 **n123hm/n123hm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hola compañeros.
+Hola a todos, ¿Cómo están?👋
+
+📚Aquí les muestro mi horario de clases.
 
 ![cooltext405178696487204](https://user-images.githubusercontent.com/99995848/155668780-9ffaa9df-011f-447d-8d2d-b83c9d6489a9.png)
 ![cooltext405178847407627](https://user-images.githubusercontent.com/99995848/155668810-bb7347f6-9bc5-48ce-ae19-4b5d098af4cb.png)
+
 -Horario
+
 |                        |                           |                                                     |                           |                                            |                                      |
 |------------------------|---------------------------|:---------------------------------------------------:|---------------------------|--------------------------------------------|--------------------------------------|
 |        **Hora**        |         **Lunes**         |                      **Martes**                     |       **Miércoles**       |                 **Jueves**                 |              **Viernes**             |
